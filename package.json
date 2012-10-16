@@ -1,0 +1,12 @@
+{
+    "name": "fast-awesome",
+    "license": "MPL 2.0",
+    "author": "Gioyik",
+    "version": "1.0",
+    "fullName": "Fast and Awesome",
+    "id": "jid1-lgXxHo3hUpL3TQ",
+    "description": "Presiona enter en la AwesomeBar para seleccionar el primer resultado de manera rapida",
+    "dependencies": ["api-utils", "addon-kit"],
+    "homepage": "https://mozilla-hispano.org/",
+    "main": "./main.js"
+}
